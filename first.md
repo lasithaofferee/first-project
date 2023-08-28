@@ -1,1 +1,1 @@
-## This is my first file in teh repo
+## This is my first file in the repo
